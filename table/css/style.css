@@ -1,0 +1,34 @@
+body{
+    font-family: 'Akaya Telivigala', cursive;
+}
+.restable{
+    overflow-x: auto;
+}
+
+/* MAKING MY TABLE RESPONSIVE */
+
+.table-style{
+    border-collapse: collapse;
+    width: 100%;
+}
+
+.table-style td, .table-style tr{
+    border: 5px solid #ddd;
+    padding: 10px;
+}
+
+.table-style tr:nth-child(even){
+    background-color: #f2f2f2;
+}
+
+.table-style tr:hover{
+    background-color: #ddd;
+}
+
+.table-style th{
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: center;
+    background-color: #4caf50;
+    color: white;
+}
