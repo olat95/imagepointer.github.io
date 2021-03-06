@@ -1,0 +1,39 @@
+body{
+    background-color: grey;
+    font-family: 'RocknRoll One', sans-serif;
+}
+
+.container{
+    width: 50%;
+    border: 10px rgb(66, 66, 2) solid;
+    margin: auto;
+}
+
+div{
+    background-color: white;
+    border-radius: 30px;
+    padding: 10px;
+    height: 100%;
+}
+h1, h2{
+    text-align: center;
+}
+.icons ul{
+    list-style: none;
+    padding-left: 30px;
+    
+}
+.icons li{
+    padding: 70px;
+    border-bottom: 3px rgb(66, 66, 2) dotted;
+    list-style-image: url(../images/empty-note-page.png);
+}
+
+img{
+    width:70px;
+    padding-right: 20px;;
+}
+
+.size1{
+    height: 70px
+}
