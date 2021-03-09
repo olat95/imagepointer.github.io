@@ -1,0 +1,56 @@
+body {
+    background: url(dogbackg.jpg) no-repeat center center fixed;
+  /* background-size: cover; */
+    font-family: "Press Start 2P", cursive;
+}
+
+.rowheight {
+    height: 500px;
+}
+.con {
+    height: 100vh;
+}
+
+.jumbo{
+    /* background-color: black; */
+    color: #fff;
+    text-align: center;
+    border-radius: 30px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    /* opacity: 0.6; */
+}
+
+h1 {
+    font-size: 2.5em;
+    color: white;
+}
+
+.bg {
+  /* background-color: gray; */
+    border-radius: 25px;
+  /* color: white; */
+    padding: 0;
+    margin: 0;
+  /* opacity: 0.8; */
+}
+
+.ima {
+    height: 300px;
+    width: 300px;
+  /* opacity: 0.6; */
+    border-radius: 30px;
+}
+
+.footter {
+    background: url(adore.jpg) repeat;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+}
+
+p {
+    font-size: 12px;
+    font-weight: bold;
+    padding: 10px;
+}
