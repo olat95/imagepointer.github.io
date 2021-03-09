@@ -1,0 +1,26 @@
+body{
+    background: url(../images/big.jpg) no-repeat center center fixed;
+    background-size: cover;
+}
+
+.white{
+    color: white;
+}
+
+#img_logo{
+    max-width: 70px;
+    max-height: 100px;
+    margin: 0 auto;
+}
+
+#login-modal .modal-dialog{
+    width: 270px;
+}
+
+#login-modal input[type=text], input[type=password]{
+    margin: 13px 0;
+}
+
+.grey{
+    background-color: rgb(16, 101, 199);
+}
