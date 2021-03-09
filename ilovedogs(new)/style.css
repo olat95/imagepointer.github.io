@@ -1,5 +1,5 @@
 body {
-    background: url(dogbackg.jpg) no-repeat center center fixed;
+    background: url(images/dogbackg.jpg) no-repeat center center fixed;
   /* background-size: cover; */
     font-family: "Press Start 2P", cursive;
 }
@@ -43,7 +43,7 @@ h1 {
 }
 
 .footter {
-    background: url(adore.jpg) repeat;
+    background: url(images/adore.jpg) repeat;
     position: fixed;
     bottom: 0;
     left: 0;
